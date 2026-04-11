@@ -1,0 +1,12 @@
+{
+  "export_job_id": "6d6f15d5-4352-4091-ad8f-4fa0b6f3456f",
+  "id_short": 485768,
+  "published_at": "2026-04-11T19:11:57Z",
+  "repo_name": "all-restaurants-in-baltimore-columbia-towson-metro-maryland-us-sample-485768",
+  "sample_asset_name": "beamstation_485768_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/485768/beamstation_485768_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
+  "sample_records": 644,
+  "sample_sha256": "452371c7ebe4ede2d248bd2a2a796e83303a9dc2666c4cce5236984527c51a21",
+  "sample_size_bytes": 2258596,
+  "total_records": 6445
+}
