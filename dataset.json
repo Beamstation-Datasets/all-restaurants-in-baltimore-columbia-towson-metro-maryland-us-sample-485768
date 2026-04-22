@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Restaurant dataset for the Baltimore-Columbia-Towson metro in Maryland. Filtered by the Restaurants category group, this export covers central Maryland's dining market with verified business profiles, ratings, review sentiment, competitive metrics, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Baltimore-Columbia-Towson (Metro), Maryland, US",
-  "export_job_id": "0917de42-a682-4f3c-bbbd-d17a48e7670e",
+  "export_job_id": "b413f5eb-371a-4cd5-8b83-1e37fa36ced5",
   "github_org": "Beamstation-Datasets",
   "id_short": 485768,
   "location_name": "Baltimore-Columbia-Towson, MD",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-baltimore-columbia-towson-metro-maryland-us-sample-485768",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/485768/beamstation_485768_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 636,
-  "sample_sha256": "8b515f0ade50d7099eec978df9f4778298f634ba7c460634949635d97f549261",
-  "sample_size_bytes": 2192717,
-  "total_records": 6361,
-  "updated_at": "2026-04-14T21:14:25.974408+00:00"
+  "sample_records": 532,
+  "sample_sha256": "ec3f984bf66b3b1a593dfd23a33276ccb4938492e8c208b596e67fe491d14418",
+  "sample_size_bytes": 1820264,
+  "total_records": 5320,
+  "updated_at": "2026-04-21T23:39:23.534390+00:00"
 }
