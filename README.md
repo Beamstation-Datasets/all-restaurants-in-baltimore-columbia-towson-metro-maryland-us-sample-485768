@@ -1,6 +1,6 @@
 # All Restaurants in Baltimore-Columbia-Towson (Metro), Maryland, US
 
-> Free BeamStation sample export with 532 rows and masked direct-contact fields.
+> Free BeamStation sample export with 610 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `485768` |
 | Location | Baltimore-Columbia-Towson, MD |
 | Category | Restaurants |
-| Full dataset size | 5,320 records |
-| Free sample size | 532 records (10.0%) |
-| Last export | 2026-04-21T23:39:23.534390+00:00 |
+| Full dataset size | 6,105 records |
+| Free sample size | 610 records (9.99%) |
+| Last export | 2026-04-29T03:02:02.792687+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-baltimore-columbia-towson-metro-maryland-us-sample-485768/releases/download/sample-latest/beamstation_485768_restaurants-us-baltimorecolumbiatowsonmd_SAMPLE_DIST.csv) |
 
 ## What is in this sample
